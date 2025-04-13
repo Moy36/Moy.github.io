@@ -1,3 +1,5 @@
 title: Moy Site
 description: A simple GitHub Pages site practice
 theme: jekyll-theme-minimal
+sass:
+  style: compressed
