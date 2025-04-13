@@ -1,1 +1,6 @@
-# 欢迎来到 {{ site.title }}
+---
+layout: default
+title: Home
+---
+
+# Welcome to {{ site.title }}
