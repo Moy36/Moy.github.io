@@ -3,7 +3,8 @@ layout: default
 title: My Portfolio
 ---
 
-<p>Hello world!</p>
-<a href="/about">About</a>
+#Hello world!
+
+[About](/about)
 
 
