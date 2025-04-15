@@ -8,6 +8,4 @@ title: Home
 ## Project Showcase
 
 | Project Name     | Description                            | Link                |
-|------------------|----------------------------------------|---------------------|
-| Personal Blog    | A tech blog built with Jekyll          | [Visit](https://example.com) |
-| Portfolio Site   | Showcases UI projects and designs      | [View](https://example.com)  |
+
